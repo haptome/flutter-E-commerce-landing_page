@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>profiledi</title>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A" transform="translate(-1360.000000, -72.000000)" stroke="#000000">
+            <g id="nav-bar" transform="translate(68.000000, 60.000000)">
+                <g id="profile" transform="translate(1292.000000, 12.000000)">
+                    <circle id="Oval" fill-opacity="0" fill="#D8D8D8" cx="11.5" cy="11.5" r="11"></circle>
+                    <circle id="Oval" fill-opacity="0" fill="#525252" cx="11.5" cy="10.5" r="5"></circle>
+                    <path d="M5,19 L5.51219512,18.36 C7.33333333,16.12 9.49593496,15 12,15 C14.504065,15 16.6666667,16.12 18.4878049,18.36 L19,19" id="Path-12" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
