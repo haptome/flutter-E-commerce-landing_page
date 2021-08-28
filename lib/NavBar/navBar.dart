@@ -16,10 +16,6 @@ class _NavBarState extends State<NavBar> {
       mainAxisAlignment: MainAxisAlignment.spaceBetween,
       crossAxisAlignment: CrossAxisAlignment.center,
       children: [
-        // Image.asset(
-        //   "assets/images/logo.png",
-        //   width: 80,
-        // ),
         Align(
           alignment: Alignment.bottomCenter,
           child: Row(
